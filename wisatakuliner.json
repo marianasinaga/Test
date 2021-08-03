@@ -1,0 +1,17 @@
+{
+  "isRegexp": false,
+  "isEnum": false,
+  "allowFuzzyExtraction": false,
+  "name": "wisatakuliner",
+  "automatedExpansion": false,
+  "entries": [
+    {
+      "value": "wisata kuliner",
+      "synonyms": [
+        "wisata kuliner"
+      ]
+    }
+  ],
+  "id": "4a552c98-50ec-4095-a2a9-03d191389157",
+  "isOverridable": false
+}

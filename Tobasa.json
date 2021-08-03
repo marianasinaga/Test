@@ -1,0 +1,18 @@
+{
+  "isRegexp": false,
+  "isEnum": false,
+  "allowFuzzyExtraction": false,
+  "name": "Tobasa",
+  "automatedExpansion": false,
+  "entries": [
+    {
+      "value": "Toba samosir",
+      "synonyms": [
+        "Toba samosir",
+        "tobasa"
+      ]
+    }
+  ],
+  "id": "d6f6b3c0-5761-41ff-8574-1e0deb02f1b6",
+  "isOverridable": false
+}

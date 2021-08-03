@@ -1,0 +1,17 @@
+{
+  "isRegexp": false,
+  "isEnum": false,
+  "allowFuzzyExtraction": false,
+  "name": "Homestay",
+  "automatedExpansion": false,
+  "entries": [
+    {
+      "value": "Homestay",
+      "synonyms": [
+        "Homestay"
+      ]
+    }
+  ],
+  "id": "e074d2bd-42b1-4321-a654-6d267d00b863",
+  "isOverridable": false
+}

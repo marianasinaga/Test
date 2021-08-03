@@ -1,0 +1,17 @@
+{
+  "isRegexp": false,
+  "isEnum": false,
+  "allowFuzzyExtraction": false,
+  "name": "wisataAlam",
+  "automatedExpansion": false,
+  "entries": [
+    {
+      "value": "wisata alam",
+      "synonyms": [
+        "wisata alam"
+      ]
+    }
+  ],
+  "id": "b2819d26-27da-4d44-b7ee-009feab3728a",
+  "isOverridable": false
+}

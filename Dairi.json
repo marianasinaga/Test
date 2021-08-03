@@ -1,0 +1,17 @@
+{
+  "isRegexp": false,
+  "isEnum": false,
+  "allowFuzzyExtraction": false,
+  "name": "Dairi",
+  "automatedExpansion": false,
+  "entries": [
+    {
+      "value": "Dairi",
+      "synonyms": [
+        "Dairi"
+      ]
+    }
+  ],
+  "id": "55dbc397-574b-4462-9235-536e8e10f123",
+  "isOverridable": false
+}

@@ -1,0 +1,17 @@
+{
+  "isRegexp": false,
+  "isEnum": false,
+  "allowFuzzyExtraction": false,
+  "name": "wisatarekreasi",
+  "automatedExpansion": false,
+  "entries": [
+    {
+      "value": "Wisata rekreasi",
+      "synonyms": [
+        "Wisata rekreasi"
+      ]
+    }
+  ],
+  "id": "a4a71c44-06fd-4ca2-b60c-615f3a25d0d5",
+  "isOverridable": false
+}

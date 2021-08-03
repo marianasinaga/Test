@@ -1,0 +1,17 @@
+{
+  "isRegexp": false,
+  "isEnum": false,
+  "allowFuzzyExtraction": false,
+  "name": "simalungun",
+  "automatedExpansion": false,
+  "entries": [
+    {
+      "value": "simalungun",
+      "synonyms": [
+        "simalungun"
+      ]
+    }
+  ],
+  "id": "9fcfaeee-a974-491d-b916-99c3c4938d77",
+  "isOverridable": false
+}

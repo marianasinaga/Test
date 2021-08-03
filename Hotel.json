@@ -1,0 +1,17 @@
+{
+  "isRegexp": false,
+  "isEnum": false,
+  "allowFuzzyExtraction": false,
+  "name": "Hotel",
+  "automatedExpansion": false,
+  "entries": [
+    {
+      "value": "Hotel",
+      "synonyms": [
+        "Hotel"
+      ]
+    }
+  ],
+  "id": "b140436c-84b6-4614-a19c-7392108ed166",
+  "isOverridable": false
+}

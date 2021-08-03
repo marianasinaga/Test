@@ -1,0 +1,18 @@
+{
+  "isRegexp": false,
+  "isEnum": false,
+  "allowFuzzyExtraction": false,
+  "name": "tapanuliUtara",
+  "automatedExpansion": false,
+  "entries": [
+    {
+      "value": "tapanuli utara",
+      "synonyms": [
+        "tapanuli utara",
+        "taput"
+      ]
+    }
+  ],
+  "id": "82c22d60-bb2a-4fe6-a3c4-42e1e5ae4e76",
+  "isOverridable": false
+}

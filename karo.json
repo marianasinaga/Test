@@ -1,0 +1,17 @@
+{
+  "isRegexp": false,
+  "isEnum": false,
+  "allowFuzzyExtraction": false,
+  "name": "karo",
+  "automatedExpansion": false,
+  "entries": [
+    {
+      "value": "karo",
+      "synonyms": [
+        "karo"
+      ]
+    }
+  ],
+  "id": "42c9da36-42b6-4d29-8ddd-6b1b1f25bc69",
+  "isOverridable": false
+}

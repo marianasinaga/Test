@@ -1,0 +1,17 @@
+{
+  "isRegexp": false,
+  "isEnum": false,
+  "allowFuzzyExtraction": false,
+  "name": "Penginapan",
+  "automatedExpansion": false,
+  "entries": [
+    {
+      "value": "Penginapan",
+      "synonyms": [
+        "Penginapan"
+      ]
+    }
+  ],
+  "id": "2c8636bb-957b-474b-bee7-33b2800de998",
+  "isOverridable": false
+}

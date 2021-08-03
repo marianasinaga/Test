@@ -1,0 +1,17 @@
+{
+  "isRegexp": false,
+  "isEnum": false,
+  "allowFuzzyExtraction": false,
+  "name": "pakpakBharat",
+  "automatedExpansion": false,
+  "entries": [
+    {
+      "value": "pakpak bharat",
+      "synonyms": [
+        "pakpak bharat"
+      ]
+    }
+  ],
+  "id": "e1feaac8-16d8-43a8-91cc-796ccf0abe46",
+  "isOverridable": false
+}

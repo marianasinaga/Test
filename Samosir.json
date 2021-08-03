@@ -1,0 +1,17 @@
+{
+  "isRegexp": false,
+  "isEnum": false,
+  "allowFuzzyExtraction": false,
+  "name": "Samosir",
+  "automatedExpansion": false,
+  "entries": [
+    {
+      "value": "samosir",
+      "synonyms": [
+        "samosir"
+      ]
+    }
+  ],
+  "id": "5b36db8b-2421-47c1-8704-d8a8b116c538",
+  "isOverridable": false
+}

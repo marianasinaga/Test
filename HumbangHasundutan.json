@@ -1,0 +1,17 @@
+{
+  "isRegexp": false,
+  "isEnum": false,
+  "allowFuzzyExtraction": false,
+  "name": "HumbangHasundutan",
+  "automatedExpansion": false,
+  "entries": [
+    {
+      "value": "Humbang Hasundutan",
+      "synonyms": [
+        "Humbang Hasundutan"
+      ]
+    }
+  ],
+  "id": "0b5c8012-1c3b-4dc0-a3af-f82fa66fdd18",
+  "isOverridable": false
+}
